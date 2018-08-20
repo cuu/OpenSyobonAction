@@ -24,7 +24,7 @@ Controls (Keyboard)
 * Left/Right: Move
 * Z or Up: Jump
 * Space: Double-speed
-* 0 (while in-game): Self-destruction
+* O (while in-game): Self-destruction
 * Escape: Exit
 * F1: Return to title screen
 * 1-9 (while at the title screen): Select level
@@ -41,10 +41,10 @@ Command Line Arguments
 Dependencies
 ------------
 * SDL
-* SDL_image
-* SDL_mixer
-* SDL_ttf
-* SDL_gfx
+* SDL\_image
+* SDL\_mixer
+* SDL\_ttf
+* SDL\_gfx
 
 Gamepad Notes
 -------------
